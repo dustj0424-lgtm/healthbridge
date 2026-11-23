@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "apk": "https://raw.githubusercontent.com/dustj0424-lgtm/healthbridge/main/update/HealthBridge.apk",
-  "sha256": "af340a334fa7240e3680136ca1788dca34cff828de8882ec0a457d82c583a6aa",
-  "notes": "자동 업데이트, 원격 진단 로그 추가"
+  "sha256": "be29279846c9cc8eb6446e9a259dd4839f4df070558ec679893df75083ce75d7",
+  "notes": "Claude에게 물어보기 버튼과 앱 아이콘 바로가기 추가"
 }
