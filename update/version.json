@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apk": "https://raw.githubusercontent.com/dustj0424-lgtm/healthbridge/main/update/HealthBridge.apk",
-  "sha256": "be29279846c9cc8eb6446e9a259dd4839f4df070558ec679893df75083ce75d7",
-  "notes": "Claude에게 물어보기 버튼과 앱 아이콘 바로가기 추가"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apk": "https://raw.githubusercontent.com/dustj0424-lgtm/healthbridge/main/update/HealthBridge.apk?v=4",
+  "sha256": "b3b0fe20c893f04be8b41376dade01803fc54ac31d40f6e11fe3fc593d9a7802",
+  "notes": "숨김 메뉴, 터치형 건강 그래프(걸음·칼로리·운동·수면·심박·체성분, 7/30/90일), Claude 앱 인식"
 }
