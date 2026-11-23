@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apk": "https://raw.githubusercontent.com/dustj0424-lgtm/healthbridge/main/update/HealthBridge.apk",
+  "sha256": "af340a334fa7240e3680136ca1788dca34cff828de8882ec0a457d82c583a6aa",
+  "notes": "자동 업데이트, 원격 진단 로그 추가"
+}
